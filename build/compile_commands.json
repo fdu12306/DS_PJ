@@ -1,0 +1,17 @@
+[
+{
+  "directory": "D:/Desktop/PJ/build",
+  "command": "D:\\MinGW-w64devkit-1.16.1\\w64devkit\\bin\\g++.exe  @CMakeFiles/main_cmake.dir/includes_CXX.rsp -g -o CMakeFiles\\main_cmake.dir\\main.cpp.obj -c D:\\Desktop\\PJ\\main.cpp",
+  "file": "D:/Desktop/PJ/main.cpp"
+},
+{
+  "directory": "D:/Desktop/PJ/build",
+  "command": "D:\\MinGW-w64devkit-1.16.1\\w64devkit\\bin\\g++.exe  @CMakeFiles/main_cmake.dir/includes_CXX.rsp -g -o CMakeFiles\\main_cmake.dir\\src\\huffman.cpp.obj -c D:\\Desktop\\PJ\\src\\huffman.cpp",
+  "file": "D:/Desktop/PJ/src/huffman.cpp"
+},
+{
+  "directory": "D:/Desktop/PJ/build",
+  "command": "D:\\MinGW-w64devkit-1.16.1\\w64devkit\\bin\\g++.exe  @CMakeFiles/main_cmake.dir/includes_CXX.rsp -g -o CMakeFiles\\main_cmake.dir\\src\\function.cpp.obj -c D:\\Desktop\\PJ\\src\\function.cpp",
+  "file": "D:/Desktop/PJ/src/function.cpp"
+}
+]
